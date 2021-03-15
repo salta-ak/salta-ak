@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @salta-ak ( just Salta) 
+- 👋 Hi, I’m @salta-ak (Salta) 
 - 👀 I’m interested in data science , cloud computing, data analytics, machine learning,software 
 - 🌱 I’m currently doing Projects: Quantum computing, Time series forecasting with Qubit Neural Networks
 - 📫 How to reach me ... mob&whatsapp: +44-7724517113 ,  s.akhmet@se20.qmul.ac.uk 

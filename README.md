@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @salta
-- 👀 I’m interested in data science , data engineering , cloud computing (microservicies dev), data analytics, machine learning,software 
+- 👀 I’m interested in data science , data engineering , cloud computing (microservicies dev), data analytics, machine learning, reinforcement leaning, quantum computing  
 - 🌱 I’m currently doing Projects: Quantum computing ; Transformers with attention
 
 
